@@ -6,6 +6,8 @@ output 1: If user entered movie is present in database ![Screenshot 2024-05-06 2
 output 2: If not present ![Screenshot 2024-05-06 203943](https://github.com/arandkarv/recommendation-system/assets/115916938/b43cb7a2-3367-4bad-bb1b-52a58a69ea9b)
 The kaggle version does'nt supports the gradio so opeen in colab code it up for gradio interface
 to work with grado interfaces exectue the try and except in the function given below
+
+
 def get_movie_list(user_id, movie_title):
     # place the try except block code here
     return "hello"
